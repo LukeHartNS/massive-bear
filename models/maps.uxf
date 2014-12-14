@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="13.1">
+  <zoom_level>16</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>512</x>
+      <y>448</y>
+      <w>256</w>
+      <h>224</h>
+    </coordinates>
+    <panel_attributes>SimpleClass
+--
+Yay, editing</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>
